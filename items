@@ -1,47 +1,43 @@
-// Translation format :
+// Translation format:
 // [Japanese text] : [Translation text] : [Actual meaning/ Direct Translation]
 
 回復の粉 : Potion : Powder of recovery
-体力を小回復します : Small HP recovery : Physical strength is recovered(small.
-回復ラクリマ : Potion+ : Recovery {rakurima}
-体力を中回復します: Medium HP recovery : Physical strength is recovered(medium)
-回復ディアマ : Potion++ : Recovery {deiama}
-体力を全回復します : Full HP recovery : All physical strength is recovered
-共復の粉 : HiPotion :
-エリア内の味方全員の体力を小回復します : Allies around player recover some HP : All allies recover their strength in a small area
-共復ラクリマ : HiPotion+ :
-エリア内の味方全員の体力を中回復します : Allies around player recover medium HP : Restores the physical strength of all the allies in the area
-共復ディアマ :HiPotion++ :
-エリア内の味方全員の体力を全回復します : Allies around player recover all HP : Physical strength in the area all allies is recovered(full)
+体力を小回復します : Small HP recovery : Slightly recovers physical strength
+回復ラクリマ : Potion+ : Recovery Lacrima
+体力を中回復します : Medium HP recovery : Moderately recovers physical strength
+回復ディアマ : Potion++ : Recovery Diama
+体力を全回復します : Full HP recovery : Fully recovers physical strength
+共復の粉 : HiPotion : Shared recovery powder
+エリア内の味方全員の体力を小回復します : Allies around player recover some HP : Slightly recovers physical strength for all allies in the area
+共復ラクリマ : HiPotion+ : Shared recovery Lacrima
+エリア内の味方全員の体力を中回復します : Allies around player recover medium HP : Moderately recovers physical strength for all allies in the area
+共復ディアマ : HiPotion++ : Shared recovery Diama
+エリア内の味方全員の体力を全回復します : Allies around player recover all HP : Fully recovers physical strength for all allies in the area
 魔力の粉 : Ether : Powder of magic
-魔力を全回復します : Small MP recovery : restore magic
-魔力ラクリマ : Ether+ 
-魔力を全回復し、３秒間魔力が減少しません : Medium MP recovery. MP freezes for 3 sec. : Magic is recovered, and all magic doesn't decrease for three seconds.
-魔力ディアマ : Ether++
-魔力を全回復し、５秒間魔力が減少しません : High MP recovery. MP freezes for 5 sec. :Magic is recovered, and all magic doesn't decrease for five seconds.
-返魂ラクリマ : Phoenix Down
-戦闘不能になったパートナーが
-その場で体力が半分回復し復活します : Revives KO'd character with 1/2 HP : Revived on the spot to recover half of their strength
-返魂ディアマ : Mega Phoenix
-戦闘不能になったパートナーが
-その場で体力が全回復し復活します : Revives KO with full HP  : Revived on the spot to recover all of their strength
-救命ラクリマ : Phoenix Pin
-プレイヤーが戦闘不能になると
-その場で体力が半分回復し自動復活します : Auto revive KO'd character with 1/2 HP : Auto revived on the spot to recover half of their strength
-救命ディアマ : Phoenix Pin+
-プレイヤーが戦闘不能になると : : When the player cannot battle
-その場で体力が全回復し自動復活します : Auto revive KO with full HP : The physical strength all recovers at that place and revives automatically
+魔力を全回復します : Small MP recovery : Fully recovers magic power
+魔力ラクリマ : Ether+ : Magic Lacrima
+魔力を全回復し、３秒間魔力が減少しません : Medium MP recovery. MP freezes for 3 sec. : Magic is fully recovered, and no magic decrease for 3 seconds
+魔力ディアマ : Ether++ : Magic Diama
+魔力を全回復し、５秒間魔力が減少しません : High MP recovery. MP freezes for 5 sec. : Magic is fully recovered, and no magic decrease for 5 seconds
+返魂ラクリマ : Phoenix Down : Phoenix Lacrima
+戦闘不能になったパートナーがその場で体力が半分回復し復活します : Revives KO'd character with 1/2 HP : Revives a downed partner with half their HP restored
+返魂ディアマ : Mega Phoenix : Mega Phoenix
+戦闘不能になったパートナーがその場で体力が全回復し復活します : Revives KO with full HP : Revives a downed partner with full HP restored
+救命ラクリマ : Phoenix Pin : Phoenix Pin Lacrima
+プレイヤーが戦闘不能になるとその場で体力が半分回復し自動復活します : Auto revive KO'd character with 1/2 HP : Automatically revives the player with half HP restored when KO’d
+救命ディアマ : Phoenix Pin+ : Phoenix Pin+ Lacrima
+プレイヤーが戦闘不能になるとその場で体力が全回復し自動復活します : Auto revive KO with full HP : Automatically revives the player with full HP restored when KO’d
 ソレム膏 : Remedy : Solem ointment
-状態異常を回復します : Cure abnormal status : Restores abnormal status
+状態異常を回復します : Cure abnormal status : Restores abnormal status conditions
 リターンパウダー : Recall : Return Powder
-ベースキャンプに一瞬で戻ります : Return to base : Return immediately to the base camp
-エキサイトビット : Tonic
-ボルテージゲージを小回復します : Increases Voltage slightly : Voltage gauge is recovered(small)
-剛腕ラクリマ : Strength Up
-一定時間攻撃を強化します : Atk Pwr temp. increased : The attack is strengthened during the fixed time.
-剛腕ディアマ : Strength Up+
-一定時間攻撃を大きく強化します : Atk Pwr temp. increased a lot : The attack is greatly strengthened during the fixed time.
-硬身ラクリマ : Defense Up
-一定時間防御を強化します : Def temp. increased : The defense is strengthened during the fixed time.
-硬身ディアマ : Defense Up+
-一定時間防御を大きく強化します : Def temp. increased a lot : The defense is greatly strengthened during the fixed time.
+ベースキャンプに一瞬で戻ります : Return to base : Instantly returns to base camp
+エキサイトビット : Tonic : Excite Bit
+ボルテージゲージを小回復します : Increases Voltage slightly : Slightly recovers the voltage gauge
+剛腕ラクリマ : Strength Up : Strength Lacrima
+一定時間攻撃を強化します : Atk Pwr temp. increased : Temporarily increases attack power for a set time
+剛腕ディアマ : Strength Up+ : Strength Diama
+一定時間攻撃を大きく強化します : Atk Pwr temp. increased a lot : Greatly increases attack power for a set time
+硬身ラクリマ : Defense Up : Defense Lacrima
+一定時間防御を強化します : Def temp. increased : Temporarily increases defense for a set time
+硬身ディアマ : Defense Up+ : Defense Diama
+一定時間防御を大きく強化します : Def temp. increased a lot : Greatly increases defense for a set time
