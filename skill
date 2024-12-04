@@ -1,35 +1,36 @@
 // Translation format :
 // [Japanese text] : [Translation text] : [Actual meaning/ Direct Translation]
-最大体力 : Reckless : The maximum physical strength
-魔力 : Mage : Magic
-攻撃力 : Guts : Offensive ability
-防御力 : Sturdy : Defense power
-素早さ : Swift : Quickness
-全状態異常耐性 : Ribbon : Abnormal resistance to all states
-マヒ耐性 : Earthed : Paralysis tolerance
-凍結耐性 : Fiery : Freeze tolerance
-石化耐性 : Ageless : Petrifaction tolerance
-水牢耐性 :  : Water prison tolerance
-眠り耐性 : Insomnia : Sleep resistance
-火傷耐性 : Fluids : Burn resistant
-ボルテージ増加速度 : Charge : Voltage increase acceleration
-重量 : : Weight
-属性付加（火） : Blaze : Attribute addition (fire)
-属性付加（水） : Torrent : Attribute addition (water)
-属性付加（風） : TailWind : Additional attributes (Wind)
-属性付加（土） : SandVeil : Attribute addition (earth)
-属性付加（氷） : Icicle : Additional attributes (ice)
-属性耐性（雷） : Limber : Attribute resistance (lightning)
-属性耐性（火） : Damp : Attribute tolerance (fire)
-属性耐性（水） : Steamy : Attribute tolerance (water)
-属性耐性（風） : WindPress : Attribute tolerance (wind)
-属性耐性（土） : Levitate : Attribute tolerance (earth)
-属性耐性（氷） : HotBody : Attribute resistance (ice)
-属性耐性（雷） : Grounded : Attribute resistance (lightning)
-のけぞり
-打ち上げ
-吹き飛ばし
-崩れ落ち力
-特殊攻撃発生率 : SuperLuck : Special attack rate of occurrence
-取得経験値 : Guru : Get experience points
-報酬額 : Loot : Amount of reward
+
+最大体力 : Maximum HP : Maximum physical strength (体力)
+魔力 : MP (Magic Power) : Magic power (魔力)
+攻撃力 : Attack Power : Offensive strength (攻撃力)
+防御力 : Defense Power : Defense strength (防御力)
+素早さ : Agility : Speed/Quickness (素早さ)
+全状態異常耐性 : Full Status Resistance : Resistance to all abnormal states (全状態異常耐性)
+マヒ耐性 : Paralysis Resistance : Paralysis tolerance (マヒ耐性)
+凍結耐性 : Freeze Resistance : Freeze tolerance (凍結耐性)
+石化耐性 : Petrification Resistance : Petrifaction tolerance (石化耐性)
+水牢耐性 : Water Prison Resistance : Water prison tolerance (水牢耐性)
+眠り耐性 : Sleep Resistance : Sleep tolerance (眠り耐性)
+火傷耐性 : Burn Resistance : Burn tolerance (火傷耐性)
+ボルテージ増加速度 : Voltage Increase Speed : Speed of voltage increase (ボルテージ増加速度)
+重量 : Weight : Weight (重量)
+属性付加（火） : Fire Attribute : Attribute addition (fire) (属性付加（火）)
+属性付加（水） : Water Attribute : Attribute addition (water) (属性付加（水）)
+属性付加（風） : Wind Attribute : Attribute addition (wind) (属性付加（風）)
+属性付加（土） : Earth Attribute : Attribute addition (earth) (属性付加（土）)
+属性付加（氷） : Ice Attribute : Attribute addition (ice) (属性付加（氷）)
+属性耐性（雷） : Lightning Resistance : Resistance to lightning (属性耐性（雷）)
+属性耐性（火） : Fire Resistance : Resistance to fire (属性耐性（火）)
+属性耐性（水） : Water Resistance : Resistance to water (属性耐性（水）)
+属性耐性（風） : Wind Resistance : Resistance to wind (属性耐性（風）)
+属性耐性（土） : Earth Resistance : Resistance to earth (属性耐性（土）)
+属性耐性（氷） : Ice Resistance : Resistance to ice (属性耐性（氷）)
+属性耐性（雷） : Lightning Resistance : Resistance to lightning (属性耐性（雷）)
+のけぞり : Knockback : Recoil or stagger (のけぞり)
+打ち上げ : Launch : Knock-up or launch (打ち上げ)
+吹き飛ばし : Knockaway : Blowback or knockback (吹き飛ばし)
+崩れ落ち力 : Collapse Power : Collapse or fall power (崩れ落ち力)
+特殊攻撃発生率 : Special Attack Rate : Probability of special attack occurrence (特殊攻撃発生率)
+取得経験値 : Experience Gained : Gained experience points (取得経験値)
+報酬額 : Reward Amount : Amount of reward (報酬額)
